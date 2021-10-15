@@ -1,0 +1,90 @@
+a:visited{
+  color:purple;
+}
+
+a:hover{
+  color:darkorange;
+}
+
+header{
+  height:150px;
+}
+
+body{
+  margin:0 auto;
+  min-height:100vh;
+}
+
+div{
+  display:flex;
+}
+
+main{
+  flex:1;
+}
+
+nav{
+  width:150px;
+}
+
+aside{
+  width:200px;
+}
+
+header{
+  font-family: Georgia;
+  font-size: 120px;
+  color:white;
+  background-color: skyblue;
+}
+
+h1{
+  background-color:blue;
+  color:white;
+  padding-left:10px
+}
+
+
+
+h2{
+  border-bottom:solid 3px lightseagreen;
+  border-left:solid 10px lightseagreen;
+  color:chocolate;
+  padding:7px;
+  font-family: Impact;
+}
+
+.fa-twitter{
+  color:skyblue;
+}
+
+.fa-instagram{
+  color:#e1306c;
+}
+
+table{
+  border-collapse:collapse;
+}
+
+tr{
+  border-bottom: solid 1px lightgray;
+}
+
+th{
+  width:150px;
+}
+
+td{
+  text-align:center;
+  padding-top: 20px;
+}
+
+
+.link{
+  background-color: pink;
+  padding: 15 px;
+  text-decoration: none;
+  color: white;
+  border-radius: 18 px;
+  box-shadow: 2 px 2 px lightgrey;
+}
